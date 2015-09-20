@@ -4,7 +4,8 @@ Billy is a no nonsense audio player that allows you to quickly play an entire di
 
 # What can it do?
 
-Billy can play WAV, MP3, and OGG files. It can usually load entire directories of MP3 files 2 to 8 times faster than winamp or media player. Billy plays music albums without any gaps between tracks, so an overlapping applause or beat will continue. The player is 100% controllable by keyboard and its easy finder and special rename functions help you to find and organize your files quickly.
+Billy can play WAV, MP3, OGG, and FLAC files. It can usually load entire directories of MP3 files 2 to 8 times faster than winamp or media player. Billy plays music albums without any gaps 
+between tracks, so an overlapping applause or beat will continue. The player is 100% controllable by keyboard and its easy finder and special rename functions help you to find and organize your files quickly.
 
 # How to use?
 
