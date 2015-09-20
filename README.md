@@ -1,6 +1,6 @@
 # About
 
-Billy is a no nonsense audio player that allows you to quickly play an entire directory of MP3 files.
+Billy is a no nonsense audio player that allows you to quickly play an entire directory of MP3 files. Version 1.04k.
 
 # What can it do?
 
