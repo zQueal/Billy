@@ -35,37 +35,37 @@ Hit `[ctrl + space]` if you don't trust your sound. Billy will maximize your win
 
 # Frequently Asked Questions
 
-_Can Billy play radio stations or video files?_
+__Can Billy play radio stations or video files?__
 
 Billy is meant to play audio, not video. I am working on a small simple dedicated Billy radio version too, which will be in the Billy package. I used to have the radio and mp3 player in one, but I decide to split them up in two different applications to stay small, dedicated and fast! :)
 
-_Where are the MP3 tags?_
+__Where are the MP3 tags?__
 
 Billy intentionally doesn't show MP3 tags for songs. Read why.
 
-_I've installed Billy and I also have winamp on my system. At first my MP3 files opened in Billy, but after a while winamp is opening them. How do I get Billy to open them again?_
+__I've installed Billy and I also have winamp on my system. At first my MP3 files opened in Billy, but after a while winamp is opening them. How do I get Billy to open them again?__
 
 Probably winamp is claiming them back at start-up. Unselect the MP3 association in winamp. Re-check the MP3 association in Billy settings.
 
-_How to get rid of the tiny Billy if I double click a file?_
+__How to get rid of the tiny Billy if I double click a file?__
 
 Go to the Billy settings and change the 'Double click a file in Explorer' option to 'Enqueue in playlist mode'.
 
-_I don't hear anything while playing with Billy_
+__I don't hear anything while playing with Billy__
 
 1. Make sure your Billy volume is at 100%
 2. Press [ctrl + space]
 3. Install latest DirectX and soundcard drivers.
 
-_How do I change the volume?_
+__How do I change the volume?__
 
 Drag the 100% sign up and down or use the numpad - and + keys.
 
-_I want to install a newer version, what should I do?_
+__I want to install a newer version, what should I do?__
 
 Just install the new one over the old one. Your settings will be kept.
 
-_What are Billy's known minimum system requirements?_
+__What are Billy's known minimum system requirements?__
 
 - 133MHz Pentium I or comparable
 - 32MB RAM
@@ -76,35 +76,35 @@ _What are Billy's known minimum system requirements?_
 
 If you have an older system, ~~mail me~~ too bad.
 
-_Billy is kind of gay. Where are the skins?_
+__Billy is kind of gay. Where are the skins?__
 
 Billy will stay skinless. You can modify the playlist colors, font type and font size though, see the Tweak section of this documentation.
 
-_What's the difference between opening a folder and a favourite?_
+__What's the difference between opening a folder and a favourite?__
 
 Favourites are static, which means that the playlist is saved exactly like you saved it. Track order is saved. Any unfound files will stay in the list. Opening a folder is dynamic, it just builds a playlist based on the files found and the default sorting setting.
 
-_Winamp and almost every other player have the time of the songs in a column next to the title. Why doesn't Billy have that?_
+__Winamp and almost every other player have the time of the songs in a column next to the title. Why doesn't Billy have that?__
 
 It would lower the performance of Billy dramatically since every single file in the list has to be read. You can always select a few songs and press `[ctrl + t]`.
 
-_If I choose the 14 LED level meter, my volume indicator disappears. Where did it go?_
+__If I choose the 14 LED level meter, my volume indicator disappears. Where did it go?__
 
 Good question :) click on the dB indicator and drag your volume to your desire. Why? If you know a proper way to place the volume in Billy, please mail me, because we couldn't find a good place, and most advanced users who use the 14 led, don't need volume and want pure 100% sound.
 
-_How can I always start Billy with an empty playlist?_
+__How can I always start Billy with an empty playlist?__
 
 Clear your playlist.txt and make it read-only.
 
-_Does Billy support Surround Sound in 4.1 or 5.1 outputs?_
+__Does Billy support Surround Sound in 4.1 or 5.1 outputs?__
 
 Yes though not tested yet. The level meters are two channels only.
 
-_Can Billy handle any Winamp visualization plugins?_
+__Can Billy handle any Winamp visualization plugins?__
 
 No, but maybe in the future.
 
-_The favorites order changes every time I add a new one. How can I stop this and keep my hotkeys?_
+__The favorites order changes every time I add a new one. How can I stop this and keep my hotkeys?__
 
 Rename your favorites with a number prefix since they are sorted alphabetically. For example:
     
@@ -112,7 +112,7 @@ Rename your favorites with a number prefix since they are sorted alphabetically.
     02 - Muse
     03 - Placebo
 
-_Any plans for Linux or the Mac?_
+__Any plans for Linux or the Mac?__
 
 The sound engine I use is Bass. Which doesn't support Linux or Mac. Therefore I am stuck to that limitation.
 
