@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.xno.dev/GCi74.png" />
+</p>
+
 # About
 
 Billy is a no nonsense audio player that allows you to quickly play an entire directory of MP3 files. Version 1.04k.
